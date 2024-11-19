@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 # Paths
 model_path = r"ASD11_RandomForest.pkl"
 template_path = r"The data frame file to be analyzed.xlsx"
-metrics_path = r"C:\ASD11\metrics.txt"
+metrics_path = r"metrics.txt"
 
 # Save Metrics
 def save_metrics_to_file(accuracy, precision, recall, f1):
