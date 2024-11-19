@@ -1,0 +1,5 @@
+### Model Performance Metrics:
+Accuracy: 0.99
+Precision: 0.92
+Recall: 0.74
+F1 Score: 0.82
